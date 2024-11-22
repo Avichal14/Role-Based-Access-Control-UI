@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #f9f9f9;
+}
+
+h4 {
+  margin: 0;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 1200px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+}
+
+table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #333;
+}
+
+table td,
+table th {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+table tr:hover {
+  background-color: #f1f1f1;
+}
